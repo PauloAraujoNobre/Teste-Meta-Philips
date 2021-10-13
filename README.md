@@ -19,6 +19,7 @@ Create environment by docker image running command line bellow:
 `docker run --name meta -e POSTGRES_PASSWORD=127514 -p 5432:5432 postgres`
 
 After create environment db have to connect it
+Password: 127514
 
 ![alt text][DB CONNECT]
 
