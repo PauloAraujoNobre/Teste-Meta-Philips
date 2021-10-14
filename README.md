@@ -23,13 +23,13 @@ Password: 127514
 
 ![alt text][DB CONNECT]
 
-[DB CONNECT]: https://github.com/PauloAraujoNobre/Teste-Meta-Philips/blob/master/frontend/meta/images/dbconnect.png "DataBase Connection"
+[DB CONNECT]: https://github.com/PauloAraujoNobre/Teste-Meta-Philips/blob/master/frontend/images/dbconnect.png "DataBase Connection"
 
 Now you should create database named `"meta"`
 
 ![alt text][DB TODO]
 
-[DB TODO]: https://github.com/PauloAraujoNobre/Teste-Meta-Philips/blob/master/frontend/meta/images/createtodo.png "DataBase TODO"
+[DB TODO]: https://github.com/PauloAraujoNobre/Teste-Meta-Philips/blob/master/frontend/images/createtodo.png "DataBase TODO"
 
 ## Back-end
 
